@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print all possible difference combination of three digits.
+ * main - print three number combination
  *
  * Return : 0 success
  */
