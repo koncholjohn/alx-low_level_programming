@@ -13,5 +13,7 @@ int is_palindrome(char *s);
 int wildcmp(char *s1, char *s2);
 int sqrt_n(int n, int c);
 int prime_a(int a, int b);
+int _strlen_recursion(char *s);
+int compare_string(char *s, int left, int right);
 
 #endif
