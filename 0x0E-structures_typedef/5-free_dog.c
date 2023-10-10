@@ -5,7 +5,7 @@
  * free_dog - a function to free memory of dog
  * created
  *
- * @d; pointer to dog_t
+ * @d: pointer to dog_t
  */
 void free_dog(dog_t *d)
 {
