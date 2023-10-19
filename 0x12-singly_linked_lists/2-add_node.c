@@ -1,5 +1,5 @@
 #include "lists.h"
-
+int len(const char *str);
 /**
  * add_node - add a node to the beginning of the ist
  * @head: pointer to the head of the list
